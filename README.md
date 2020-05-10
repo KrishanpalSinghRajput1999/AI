@@ -1,4 +1,4 @@
-# SMS with Python.
+# SRS with Python.
 Smart Reply is a predictive text feature, which currently works in apps like Allo, Gmail, Inbox and from now on, Android Messages too. Functionality gives you the ability to answer messages by selecting pre-written responses based on machine learning and AI. The Smart reply system is based upon the responses being fed in intents.json file. It is a dataset used in the project. This system is focused to answer the medical and drug related queries.
 
 •	Intents.json – The data file which has predefined patterns and responses.
